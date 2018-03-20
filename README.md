@@ -1,2 +1,0 @@
-# horisontrejser.github.io
-Interaktionsuge 
